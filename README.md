@@ -2,7 +2,7 @@
 
 Course can be found [here](https://www.coursera.org/learn/ml-classification)
 
-Notebook for quick search can be found [here]()
+Notebook for quick search can be found [here](https://ssq.github.io/2017/08/19/Coursera%20UW%20Machine%20Learning%20Specialization%20Notebook/)
 
 - Week 1
   - decision boundaries
