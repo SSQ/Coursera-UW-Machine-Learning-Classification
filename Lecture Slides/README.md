@@ -8,3 +8,11 @@ Week 1:
   - impact of coefficient values on logistic regression output
   - 1-hot encoding
   - multiclass classification using the 1-versus-all
+
+Week 2:
+- 2.0: Learning Linear Classifiers
+  - Maximum likelihood estimation
+  - Gradient ascent algorithm for learning logistic regression classifier
+  - Choosing step size for gradient ascent/descent
+  - (VERY OPTIONAL LESSON) Deriving gradient of logistic regression
+  
