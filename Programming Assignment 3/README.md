@@ -2,7 +2,7 @@
 Implement your own logistic regression classifier with L2 regularization.
 # File Description
 - `.zip` files is data file.
-  - `[amazon_baby_subset.zip](https://github.com/SSQ/Coursera-UW-Machine-Learning-Classification/blob/master/Programming%20Assignment%202/amazon_baby_subset.zip)` (unzip `amazon_baby_subset.csv`) 53072 sentiments (26579 positive, 26493 negative).
+  - [`amazon_baby_subset.zip`](https://github.com/SSQ/Coursera-UW-Machine-Learning-Classification/blob/master/Programming%20Assignment%202/amazon_baby_subset.zip) (unzip `amazon_baby_subset.csv`) 53072 sentiments (26579 positive, 26493 negative).
 - `.ipynb` file is the solution of Week 2 program assignment 3
   - `Logistic Regression with L2 regularization.ipynb`
 - `.html` file is the html version of `.ipynb` file.
