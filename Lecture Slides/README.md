@@ -15,4 +15,9 @@ Week 2:
   - Gradient ascent algorithm for learning logistic regression classifier
   - Choosing step size for gradient ascent/descent
   - (VERY OPTIONAL LESSON) Deriving gradient of logistic regression
+ - 2.1: Overfitting & Regularization in Logistic Regression
+  - Overfitting in classification
+  - Overconfident predictions due to overfitting
+  - L2 regularized logistic regression
+  - Sparse logistic regression
   
