@@ -1,0 +1,17 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label=<safe_loans &le; 0.5<br/>gini = 0.5<br/>samples = 37224<br/>value = [18476, 18748]<br/>class = -1>, fillcolor="#399de504"] ;
+1 [label=<grade_A &le; 0.5<br/>gini = 0.4973<br/>samples = 32094<br/>value = [17218, 14876]<br/>class = +1>, fillcolor="#e5813923"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label=<gini = 0.4829<br/>samples = 21728<br/>value = [12875, 8853]<br/>class = +1>, fillcolor="#e5813950"] ;
+1 -> 2 ;
+3 [label=<gini = 0.4869<br/>samples = 10366<br/>value = [4343, 6023]<br/>class = -1>, fillcolor="#399de547"] ;
+1 -> 3 ;
+4 [label=<total_rec_late_fee &le; 14.8301<br/>gini = 0.3702<br/>samples = 5130<br/>value = [1258, 3872]<br/>class = -1>, fillcolor="#399de5ac"] ;
+0 -> 4 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+5 [label=<gini = 0.3555<br/>samples = 4987<br/>value = [1153, 3834]<br/>class = -1>, fillcolor="#399de5b2"] ;
+4 -> 5 ;
+6 [label=<gini = 0.3902<br/>samples = 143<br/>value = [105, 38]<br/>class = +1>, fillcolor="#e58139a3"] ;
+4 -> 6 ;
+}
