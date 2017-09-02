@@ -2,7 +2,7 @@
 Implement your own binary decision tree classifier.
 # File Description
 - `.zip` files is data file.
-  - `[lending-club-data.csv.zip](implement your own binary decision tree classifier)` (unzip `lending-club-data.csv`) consists of 122,607 people and 68 features
+  - [lending-club-data.csv.zip](https://github.com/SSQ/Coursera-UW-Machine-Learning-Classification/blob/master/Programming%20Assignment%204/lending-club-data.csv.zip) (unzip `lending-club-data.csv`) consists of 122,607 people and 68 features
   - `module-5-assignment-2-train-idx.json.zip` 
   - `module-5-assignment-2-test-idx.json.zip`
 - `.ipynb` file is the solution of Week 3 program assignment 5
