@@ -42,3 +42,22 @@ Notebook for quick search can be found [here](https://ssq.github.io/2017/08/19/C
         - (OPTIONAL) Picking the best threshold to split on
     - [x] [Identifying safe loans with decision trees](https://github.com/SSQ/Coursera-UW-Machine-Learning-Classification/tree/master/Programming%20Assignment%204)
     - [x] [Implementing binary decision trees from scratch](https://github.com/SSQ/Coursera-UW-Machine-Learning-Classification/tree/master/Programming%20Assignment%205)
+- Week 4
+  - Overfitting in decision trees 
+    - Identify when overfitting in decision trees
+    - Prevent overfitting with early stopping
+      - Limit tree depth
+      - Do not consider splits that do not reduce classification error
+      - Do not split intermediate nodes with only few points
+    - Prevent overfitting by pruning complex trees
+      - Use a total cost formula that balances classification error and tree complexity
+      - Use total cost to merge potentially complex trees into simpler ones 
+    - [x] [Decision Trees in Practice for preventing overfitting](https://github.com/SSQ/Coursera-UW-Machine-Learning-Classification/tree/master/Programming%20Assignment%206) 
+  - Handling missing data 
+    - Describe common ways to handling missing data:
+      1. Skip all rows with any missing values
+      2. Skip features with many missing values
+      3. Impute missing values using other data points
+    - Modify learning algorithm (decision trees) to handle missing data:
+      1. Missing values get added to one branch of split
+      2. Use classification error to determine where missing values go 
