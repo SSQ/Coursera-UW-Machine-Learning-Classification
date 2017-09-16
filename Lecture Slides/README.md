@@ -55,3 +55,16 @@ Week 4
   - Modify learning algorithm (decision trees) to handle missing data:
     1. Missing values get added to one branch of split
     2. Use classification error to determine where missing values go 
+
+Week 5
+- 5.0: Boosting 
+  - Identify notion ensemble classifiers
+  - Formalize ensembles as the weighted combination of simpler classifiers
+  - Outline the boosting framework – sequentially learn classifiers on weighted data
+  - Describe the AdaBoost algorithm
+    - Learn each classifier on weighted data
+    - Compute coefficient of classifier
+    - Recompute data weights
+    - Normalize weights
+  - Implement AdaBoost to create an ensemble of decision stumps
+  - Discuss convergence properties of AdaBoost & how to pick the maximum number of iterations T 
