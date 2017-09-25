@@ -42,8 +42,8 @@ open `.html` file via brower for quick look.
   - `predict_adaboost(stump_weights, tree_stumps, train_data)` **0.615516870836**
   - `predictions = predict_adaboost(stump_weights, tree_stumps, test_data)` **0.620314519604**
 - Write a function `stump_weights, tree_stumps = adaboost_with_tree_stumps(train_data, features, target, num_tree_stumps=30)` to train a boosted ensemble of 30 stumps
-  - Evaluation on the train data
-  - Evaluation on the test data
+  - Evaluation on the train data **0.378734150011**
+  - Evaluation on the test data **0.376777251185**
 
 
 
