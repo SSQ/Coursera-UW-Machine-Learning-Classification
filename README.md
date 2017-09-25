@@ -74,4 +74,4 @@ Notebook for quick search can be found [here](https://ssq.github.io/2017/08/19/C
     - Implement AdaBoost to create an ensemble of decision stumps
     - Discuss convergence properties of AdaBoost & how to pick the maximum number of iterations T 
     - [x] [Exploring Ensemble Methods with pre-implemented gradient boosted trees](https://github.com/SSQ/Coursera-UW-Machine-Learning-Classification/tree/master/Week%205%20PA%201)
-    - [x] []()
+    - [x] [Implement your own boosting module](https://github.com/SSQ/Coursera-UW-Machine-Learning-Classification/tree/master/Week%205%20PA%202)
