@@ -75,3 +75,12 @@ Notebook for quick search can be found [here](https://ssq.github.io/2017/08/19/C
     - Discuss convergence properties of AdaBoost & how to pick the maximum number of iterations T 
     - [x] [Exploring Ensemble Methods with pre-implemented gradient boosted trees](https://github.com/SSQ/Coursera-UW-Machine-Learning-Classification/tree/master/Week%205%20PA%201)
     - [x] [Implement your own boosting module](https://github.com/SSQ/Coursera-UW-Machine-Learning-Classification/tree/master/Week%205%20PA%202)
+- Week 6 
+  - Evaluating classifiers: Precision & Recall 
+    - Classification accuracy/error are not always right metrics
+    - Precision captures fraction of positive predictions that are correct
+    - Recall captures fraction of positive data correctly identified by the model
+    - Trade-off precision & recall by setting probability thresholds
+    - Plot precision-recall curves.
+    - Compare models by computing precision at k
+    - [x] [Exploring precision and recall](https://github.com/SSQ/Coursera-UW-Machine-Learning-Classification/tree/master/Week%206%20PA%201)
