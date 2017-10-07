@@ -84,3 +84,11 @@ Notebook for quick search can be found [here](https://ssq.github.io/2017/08/19/C
     - Plot precision-recall curves.
     - Compare models by computing precision at k
     - [x] [Exploring precision and recall](https://github.com/SSQ/Coursera-UW-Machine-Learning-Classification/tree/master/Week%206%20PA%201)
+- Week 7
+  - Scaling to Huge Datasets & Online Learning 
+    - Significantly speedup learning algorithm using stochastic gradient
+    - Describe intuition behind why stochastic gradient works
+    - Apply stochastic gradient in practice
+    - Describe online learning problems
+    - Relate stochastic gradient to online learning 
+    - [x] [Training Logistic Regression via Stochastic Gradient Ascent](https://github.com/SSQ/Coursera-UW-Machine-Learning-Classification/tree/master/Week%207%20PA%201)
