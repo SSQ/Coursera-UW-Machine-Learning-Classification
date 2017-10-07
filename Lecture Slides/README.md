@@ -68,3 +68,20 @@ Week 5
     - Normalize weights
   - Implement AdaBoost to create an ensemble of decision stumps
   - Discuss convergence properties of AdaBoost & how to pick the maximum number of iterations T 
+
+Week 6
+- 6.0: Precision-Recall
+  - Classification accuracy/error are not always right metrics
+  - Precision captures fraction of positive predictions that are correct
+  - Recall captures fraction of positive data correctly identified by the model
+  - Trade-off precision & recall by setting probability thresholds
+  - Plot precision-recall curves.
+  - Compare models by computing precision at k
+  
+Week 7
+- 7.0 Scaling to Huge Datasets & Online Learning 
+  - Significantly speedup learning algorithm using stochastic gradient
+  - Describe intuition behind why stochastic gradient works
+  - Apply stochastic gradient in practice
+  - Describe online learning problems
+  - Relate stochastic gradient to online learning 
