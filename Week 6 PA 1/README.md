@@ -2,7 +2,7 @@
 - Understand precision-recall in the context of classifiers.
 # File Description
 - `.rar` files is data file.
-  - `[amazon_baby.rar](https://github.com/SSQ/Coursera-UW-Machine-Learning-Classification/blob/master/Programming%20Assignment%201/amazon_baby.rar)` (unzip `amazon_baby.csv`) consists of 183,531 customers with `name`, `review`, `rating`.
+  - [`amazon_baby.rar`](https://github.com/SSQ/Coursera-UW-Machine-Learning-Classification/blob/master/Programming%20Assignment%201/amazon_baby.rar) (unzip `amazon_baby.csv`) consists of 183,531 customers with `name`, `review`, `rating`.
 - `.ipynb` file is the solution of Week 6 program assignment
   - `Exploring precision and recall.ipynb`
 - `.html` file is the html version of `.ipynb` file.
