@@ -11,7 +11,8 @@ Explore various techniques for preventing overfitting in decision trees.
 - `.html` file is the html version of `.ipynb` file.
   - `Decision+Trees+in+Practice.html`
 # Snapshot
-open `.html` file via brower for quick look.
+- **Recommend** open `md` file
+- open `.html` file via brower for quick look.
 # Algorithm
 - Preventing overfitting in decision trees
 # Implementation
