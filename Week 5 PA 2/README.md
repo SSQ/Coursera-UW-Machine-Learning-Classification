@@ -11,7 +11,8 @@ Implementing your own Adaboost
 - `.html` file is the html version of `.ipynb` file.
   - `module-8-boosting-assignment-2.html`
 # Snapshot
-open `.html` file via brower for quick look.
+- **Recommend** open `md` file inside a file
+- open `.html` file via brower for quick look.
 # Algorithm
 - Implementing your own Adaboost
 # Implementation
