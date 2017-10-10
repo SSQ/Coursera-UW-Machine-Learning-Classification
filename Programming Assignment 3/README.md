@@ -8,7 +8,8 @@ Implement your own logistic regression classifier with L2 regularization.
 - `.html` file is the html version of `.ipynb` file.
   - `Logistic+Regression+with+L2+regularization.html`
 # Snapshot
-open `.html` file via brower for quick look.
+- **Recommend** open `md` file inside a file
+- open `.html` file via brower for quick look.
 # Algorithm
 - Logistic Regression with L2 regularization
 # Implementation
