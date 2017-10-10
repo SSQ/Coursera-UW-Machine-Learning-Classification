@@ -8,6 +8,7 @@
 - `.html` file is the html version of `.ipynb` file.
   - `Predicting+sentiment+from+product+reviews+with+pandas.html`
 # Snapshot
+**Recommend** open `md` file
 open `.html` file via brower for quick look.
 # Algorithm
 - Logistic Regression
