@@ -8,7 +8,8 @@ The goal of this assignment is to implement your own logistic regression classif
 - `.html` file is the html version of `.ipynb` file.
   - `Implementing+logistic+regression+from+scratch.html`
 # Snapshot
-open `.html` file via brower for quick look.
+- **Recommend** open `md` file inside a file
+- open `.html` file via brower for quick look.
 # Algorithm
 - Logistic Regression
 # Implementation
