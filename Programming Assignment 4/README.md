@@ -14,7 +14,8 @@ Build a classification model to predict whether or not a loan provided by [Lendi
 - `.png` file is the output image
   - `simple_tree.png`
 # Snapshot
-open `.html` file via brower for quick look.
+- **Recommend** open `md` file inside a file
+- open `.html` file via brower for quick look.
 # Algorithm
 - Decision Tree
 # Implementation
