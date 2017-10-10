@@ -11,7 +11,8 @@ explore the use of boosting with the pre-implemented gradient boosted trees
 - `.html` file is the html version of `.ipynb` file.
   - `module-8-boosting-assignment-1.html`
 # Snapshot
-open `.html` file via brower for quick look.
+- **Recommend** open `md` file inside a file
+- open `.html` file via brower for quick look.
 # Algorithm
 - gradient boosted trees
 # Implementation
