@@ -8,7 +8,8 @@
 - `.html` file is the html version of `.ipynb` file.
   - `Exploring+precision+and+recall.html`
 # Snapshot
-open `.html` file via brower for quick look.
+- **Recommend** open `md` file inside a file
+- open `.html` file via brower for quick look.
 # Algorithm
 - precision-recall 
 # Implementation
