@@ -10,7 +10,8 @@ Implement your own binary decision tree classifier.
 - `.html` file is the html version of `.ipynb` file.
   - `Implementing+binary+decision+trees.html`
 # Snapshot
-open `.html` file via brower for quick look.
+- **Recommend** open `md` file
+- open `.html` file via brower for quick look.
 # Algorithm
 - Decision Tree
 # Implementation
